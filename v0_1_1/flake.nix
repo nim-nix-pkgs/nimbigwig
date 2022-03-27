@@ -11,6 +11,7 @@
   inputs.src-nimbigwig-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-nimbigwig-v0_1_1.owner = "genotrance";
   inputs.src-nimbigwig-v0_1_1.repo  = "nimbigwig";
+  inputs.src-nimbigwig-v0_1_1.dir   = "";
   inputs.src-nimbigwig-v0_1_1.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
