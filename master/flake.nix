@@ -11,7 +11,6 @@
   inputs.src-nimbigwig-master.ref   = "refs/heads/master";
   inputs.src-nimbigwig-master.owner = "genotrance";
   inputs.src-nimbigwig-master.repo  = "nimbigwig";
-  inputs.src-nimbigwig-master.dir   = "";
   inputs.src-nimbigwig-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
