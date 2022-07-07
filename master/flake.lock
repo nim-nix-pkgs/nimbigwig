@@ -64,11 +64,11 @@
       },
       "locked": {
         "dir": "v0_5_1",
-        "lastModified": 1656748596,
-        "narHash": "sha256-sgmgHTJcqyOMqIFC0jih8C1ESyERqahIxRPbrhsmS6Q=",
+        "lastModified": 1657154747,
+        "narHash": "sha256-uhbDfNbkfoKaxSWTC47+INBerdU2/xTZmioXCvYfS0E=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgen",
-        "rev": "cad1063970c624733cad1b4a220d5be2e1031ffa",
+        "rev": "827c8fd2a9745428a759269d14117ba9015444b6",
         "type": "github"
       },
       "original": {
