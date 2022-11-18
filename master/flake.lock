@@ -213,11 +213,11 @@
       },
       "locked": {
         "dir": "v0_5_1",
-        "lastModified": 1668751131,
-        "narHash": "sha256-n9dSSL/XBFvbFdAe2wXLyyGfH6Nm4xyQA+CSRnOYwd0=",
+        "lastModified": 1668756570,
+        "narHash": "sha256-uJo7V+8U52tPLDY5KPcQWGtQ081+cwjO590WhdHOdNw=",
         "owner": "nim-nix-pkgs",
         "repo": "nimgen",
-        "rev": "c7f12b77a3a3c76e140964a81c911c02a286f7df",
+        "rev": "3172c8842ce5dc0f1f9ebd0d62fc70a95156c241",
         "type": "github"
       },
       "original": {
